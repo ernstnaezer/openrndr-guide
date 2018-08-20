@@ -159,7 +159,7 @@ Drawer.vertexBufferInstances()
 ```
 
 Per instance attributes can be stored in a vertex buffer. For example a transform per instance be realized by creating a vertex buffer that contains
-matrix attributes. [full source](http://github.com/openrndr/openrndr-examples/custom-rendering-003/src/main/kotlin/main.kt)
+matrix attributes. [full source](https://github.com/openrndr/openrndr-tutorials/blob/master/custom-rendering-003/src/main/kotlin/Example.kt)
 
 ```kotlin
 lateinit var geometry: VertexBuffer
